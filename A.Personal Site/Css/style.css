@@ -1,0 +1,27 @@
+body {
+    background-color: #b8e6e3e0;
+    
+    }
+    
+    hr {
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    width: 50%;
+    }
+
+    h1 {
+
+color: rgb(39, 33, 197);
+
+    }
+
+    h3 {
+       color:  rgb(39, 33, 197) ;
+    }
+    img {
+        background-color: red;
+    }
+
